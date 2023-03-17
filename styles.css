@@ -1,10 +1,10 @@
 
 /* Your CSS Code here. */
 #btn {
-    border-width: 0px;
+    border: 0px;
     border-radius: 5px;
-    background-color: black;
-    color: white;
+    background-color: rgb(0,0,0);
+    color: rgb(255,255,255);
 }
 
 #btn:hover {
